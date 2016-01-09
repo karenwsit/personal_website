@@ -7,12 +7,23 @@
 	background: url(../img/wild_oliva.png) center center fixed;
 }
 
+#logos a:hover {
+	color: white;
+}
+
 .container h3{
 	margin-top: 20px;
 	font-size: 30px;
 	margin-bottom: 30px;
 }
 
-#logos a:hover {
-	color: white;
+.container h4{
+	font-size: 23px;
+	margin-bottom: 10px; 
 }
+
+.container p{
+	font-size: 18px;
+}
+
+
