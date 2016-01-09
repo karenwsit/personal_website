@@ -22,6 +22,10 @@
 	margin-bottom: 10px; 
 }
 
+.container h4:hover{
+	color: blue;
+}
+
 .container p{
 	font-size: 18px;
 }
